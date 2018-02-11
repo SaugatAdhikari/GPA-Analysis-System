@@ -267,4 +267,3 @@ plt.ylabel('test value, predicted value')
 plt.plot(X_validation,Y_validation,'.',X_validation,predictions,'-')
 plt.show()
 print("  ")
-
